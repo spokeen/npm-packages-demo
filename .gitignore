@@ -1,0 +1,8 @@
+/.idea/
+.DS_Store
+.vscode/
+node_modules/
+.history/
+lerna-debug.log
+npm-debug.log
+yarn-error.log

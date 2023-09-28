@@ -1,0 +1,3 @@
+{"level":"info","message":"Hello distributed log files!","timestamp":"2022-04-07T10:01:26.426Z"}
+{"level":"info","message":"Hello again distributed info","timestamp":"2022-04-07T10:01:26.427Z"}
+{"level":"error","message":"Hello again distributed error","timestamp":"2022-04-07T10:01:26.427Z"}
