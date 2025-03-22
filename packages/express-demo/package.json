@@ -18,7 +18,8 @@
     "url": "git+https://github.com/spokeen/npm-packages-demo.git"
   },
   "scripts": {
-    "test": "node ./__tests__/express-demo.test.js"
+    "test": "node ./__tests__/express-demo.test.js",
+    "start": "node lib/main.js"
   },
   "bugs": {
     "url": "https://github.com/spokeen/npm-packages-demo/issues"
