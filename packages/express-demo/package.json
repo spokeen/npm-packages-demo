@@ -1,0 +1,29 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "liaowenduo <634609252@qq.com>",
+  "homepage": "https://github.com/spokeen/npm-packages-demo#readme",
+  "license": "ISC",
+  "main": "lib/mian.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spokeen/npm-packages-demo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/express-demo.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/spokeen/npm-packages-demo/issues"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
