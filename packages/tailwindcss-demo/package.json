@@ -1,0 +1,30 @@
+{
+  "name": "tailwindcss-demo",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "liaowenduo <634609252@qq.com>",
+  "homepage": "https://github.com/spokeen/npm-packages-demo#readme",
+  "license": "ISC",
+  "main": "lib/tailwindcss-demo.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spokeen/npm-packages-demo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/tailwindcss-demo.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/spokeen/npm-packages-demo/issues"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.4",
+    "tailwindcss": "^4.1.4"
+  }
+}
